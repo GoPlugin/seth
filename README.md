@@ -9,7 +9,7 @@ Reliable and debug-friendly Ethereum client
 [![Integration tests (testnets)](https://github.com/goplugin/seth/actions/workflows/test_decode_testnet.yml/badge.svg)](https://github.com/goplugin/seth/actions/workflows/test_decode_testnet.yml)
 <br/>
 
-*DISCLAIMER*: This repository is archived, there will be no new commits or support, all development is moved to https://github.com/goplugin/chainlink-testing-framework
+*DISCLAIMER*: This repository is archived, there will be no new commits or support, all development is moved to https://github.com/goplugin/plugin-testing-framework
 
 # Content
 1. [Goals](#goals)
